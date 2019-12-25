@@ -1,2 +1,2 @@
 # IBM-DATA-SCIENCE
-Baby steps towards a journey as Data Scientist
+Baby steps towards a journey of Data Science
